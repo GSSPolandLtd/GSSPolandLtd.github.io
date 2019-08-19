@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": “L5AGVM93E5.MadPixel.NFC-Testing",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
